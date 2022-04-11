@@ -1,0 +1,5 @@
+az104-01a-aaduser1@gundemadhandrarupaoutlook.onmicrosoft.com
+Azure_0022 Let me Creat Password
+Azure_2121 Updated Password
+az104-01a-aaduser2@gundemadhandrarupaoutlook.onmicrosoft.com
+az104-02-mg1 subscription ID
